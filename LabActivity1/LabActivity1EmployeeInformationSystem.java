@@ -39,7 +39,7 @@ public class LabActivity1EmployeeInformationSystem {
   System.out.println("--------------------");
   System.out.println("Full name    : " + FirstName + " "+ LastName);
   System.out.println("Age          : " + Age + " Years Old");
-  System.out.println("Daily Salary : " + NumberOfHoursWorked * HourlyWage );
+  System.out.println("Daily Salary : " + "PHp " + NumberOfHoursWorked * HourlyWage );
   
 }
 }
