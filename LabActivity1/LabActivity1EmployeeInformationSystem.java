@@ -35,7 +35,7 @@ public class LabActivity1EmployeeInformationSystem {
   
 //  For Outputting Personal Information and computing Daily Salary
   System.out.println(" ");
-  System.out.println("Personal Information");
+  System.out.println("Employee Information");
   System.out.println("--------------------");
   System.out.println("Full name    : " + FirstName + " "+ LastName);
   System.out.println("Age          : " + Age + " Years Old");
