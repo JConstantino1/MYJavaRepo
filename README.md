@@ -1,6 +1,6 @@
 # MYJavaRepo
 
-This Repository Includes all my work for the second semester of my First year in Computer Programming Subject.
+This repository contains all my work for the Computer Programming subject during the second semester of my first year in the Computer Science course.
 
 
 1. LabActivty1  - Employee Information System
