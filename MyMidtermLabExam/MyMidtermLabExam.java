@@ -51,7 +51,7 @@ public class MyMidtermLabExam {
 //method for adding tickets
     static void addTicket() {
         if (tickets.size() >= ticketLimit) {
-            System.out.println("Cannot add more tickets. Maximum reached.");
+            System.out.println("Cannot add more tickets. Ticket Limit reached.");
             return;
         }
 //  inputs for issue description and urgency level
