@@ -23,7 +23,7 @@ public TextArea AOutput;
 
 public Button submit;
 
-//  Panels
+// Panels
 public Panel FPanel;
 public Panel SPanel;
 public Panel TPanel;
@@ -43,7 +43,7 @@ public Panel TPanel;
     });
      
      
-// Labels Constructors
+// Labels 
      FPanel = new Panel(new GridLayout(8,2)); 
      lFName = new Label("First Name");
      FPanel.add(lFName);                    
@@ -89,7 +89,7 @@ public Panel TPanel;
      TPanel.add(lOutput);   
   
      AOutput = new TextArea();
-     AOutput.setEditable(false);  // read-only
+     AOutput.setEditable(false);
      TPanel.add(AOutput);
      
      add(FPanel);
